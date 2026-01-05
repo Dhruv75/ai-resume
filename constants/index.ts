@@ -1,6 +1,3 @@
-import type { Resume } from "../types";
-
-
 export const resumes: Resume[] = [
   {
     id: "1",
